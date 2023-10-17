@@ -1,7 +1,7 @@
 # next-intro
 
-<h2>ESLint</h2> 
-<h3>
+<h3>ESLint</h3> 
+<h5>
     ESLint es una herramienta de análisis estático de código abierto utilizada para identificar y corregir problemas en el código JavaScript, además de ayudar a mantener un estilo de código consistente, adherirse a las mejores prácticas de codificación y detectar posibles problemas en una etapa temprana del proceso de desarrollo. 
 
     Las características de ESLint son:
@@ -17,4 +17,4 @@
     5. Soporte de la comunidad: la comunidad de ESLint es grande y activa, permitiendo que exista una amplia variedad de configuraciones y complementos. 
 
     Los desarrolladores suelen utilizar ESLint junto a otras herramientas como Prettier (para formatear código), con la finalidad de mantener una alta calidad y consistencia de código en sus proyectos JavaScript.
-</h3>
+</h5>
