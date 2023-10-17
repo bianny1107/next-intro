@@ -32,16 +32,17 @@ Las características principales de Tailwind CSS son:
 </h5>
 
 ## Routing: Project organization and file colocation 
-<h5>
+<h5> 
+ 
  En Next.JS, la organización y colocación de archivos es fundamentl para una gestión eficiente del proyecto. 
- Algunas pautas para tener un proyecto organizado son:
- - **Carpetas Pages de enrutamiento**: Utiliza las carpetas _pages_ para definir rutas web. Cada archivo dentro de la carpeta representará una ruta en el sitio.
- - **Componentes reutilizables*: Se deben colocar dentro de la carpeta _components_ y organizarlos en subarpetas (dependiendo de su función).
- - **Rutas dinámicas**: Es importante utilizar corchetes en los nombres de archivo en la carpeta _pages_ para crear rutas dinámicas.
- - **API Routes**: Crear rutas de API en la carpeta _pages/API_.
- - **Estilos y CSS**: Organizar los estilos en _styles_ o _public_.
- - **Rutas anidadas**: Las rutas anidadas deben estar dentro de la carpeta _pages_.
- - Configuración personalizada: Las reglas de enrutamiento y configuraciones adicionales deben ser definidas en el archivo _next.confi.js_.
- - **Componentes páginas**: Los componentes de React y las páginas deben ser importadas desde los archivos en _pages_.
-   **Enrutamiento dinámico**: Es posible aprovecharlo mejor mediante la creación de rutas basadas en datos en tiempo de ejecución.
+Algunas pautas para tener un proyecto organizado son:
+- **Carpetas Pages de enrutamiento**: Utiliza las carpetas _pages_ para definir rutas web. Cada archivo dentro de la carpeta representará una ruta en el sitio.
+- **Componentes reutilizables*: Se deben colocar dentro de la carpeta _components_ y organizarlos en subarpetas (dependiendo de su función).
+- **Rutas dinámicas**: Es importante utilizar corchetes en los nombres de archivo en la carpeta _pages_ para crear rutas dinámicas.
+- **API Routes**: Crear rutas de API en la carpeta _pages/API_.
+- **Estilos y CSS**: Organizar los estilos en _styles_ o _public_.
+- **Rutas anidadas**: Las rutas anidadas deben estar dentro de la carpeta _pages_.
+- Configuración personalizada: Las reglas de enrutamiento y configuraciones adicionales deben ser definidas en el archivo _next.confi.js_.
+- **Componentes páginas**: Los componentes de React y las páginas deben ser importadas desde los archivos en _pages_.
+  **Enrutamiento dinámico**: Es posible aprovecharlo mejor mediante la creación de rutas basadas en datos en tiempo de ejecución.
 </h5>
