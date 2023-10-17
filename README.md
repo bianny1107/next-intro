@@ -37,7 +37,7 @@ Las características principales de Tailwind CSS son:
  En Next.JS, la organización y colocación de archivos es fundamentl para una gestión eficiente del proyecto. 
 Algunas pautas para tener un proyecto organizado son:
 - **Carpetas Pages de enrutamiento**: Utiliza las carpetas _pages_ para definir rutas web. Cada archivo dentro de la carpeta representará una ruta en el sitio.
-- **Componentes reutilizables*: Se deben colocar dentro de la carpeta _components_ y organizarlos en subarpetas (dependiendo de su función).
+- **Componentes reutilizables**: Se deben colocar dentro de la carpeta _components_ y organizarlos en subarpetas (dependiendo de su función).
 - **Rutas dinámicas**: Es importante utilizar corchetes en los nombres de archivo en la carpeta _pages_ para crear rutas dinámicas.
 - **API Routes**: Crear rutas de API en la carpeta _pages/API_.
 - **Estilos y CSS**: Organizar los estilos en _styles_ o _public_.
